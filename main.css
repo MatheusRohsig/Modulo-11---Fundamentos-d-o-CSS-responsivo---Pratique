@@ -1,0 +1,25 @@
+header {
+    background-color: rgb(40, 97, 240);
+}
+
+.nav-link{
+    color:#fff
+}
+.navbar-brand {
+    color:#fff;
+    font-size: 30px;
+}
+
+.col-lg-8 .pb-3{
+    border-bottom: 2px solid blue;
+}
+
+.pb-3 {
+    color: rgb(40, 97, 240);
+}
+
+#produtos h3 {
+    border-bottom: 2px solid blue;
+
+}
+
